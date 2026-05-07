@@ -1,5 +1,7 @@
 # Hi, I'm Anshu Pokhrel 👋
 
+> **Think • Create • Learn • Scale**
+
 I'm a **Full-Stack Developer** and **AI Engineering Enthusiast** from Nepal. I specialize in building superfast JavaScript applications and exploring how LLMs can transform user experiences.I am a developer focused on building and enjoy creating tools that solve everyday problems and exploring AI-integrated systems.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
