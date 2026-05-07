@@ -34,13 +34,5 @@ I'm a **Full-Stack Developer** and **AI Engineering Enthusiast** from Nepal. I s
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anshupokhrel&show_icons=true&theme=tokyonight" alt="Anshu's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupokhrel&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 [LinkedIn](https://linkedin.com/in/anshupokhrel-3552b306) | [Twitter](https://x.com/anshupokhre1)
