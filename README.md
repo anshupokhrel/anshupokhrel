@@ -1,6 +1,12 @@
 # Hi, I'm Anshu Pokhrel 👋
 
 I'm a **Full-Stack Developer** and **AI Engineering Enthusiast** from Nepal. I specialize in building superfast JavaScript applications and exploring how LLMs can transform user experiences.I am a developer focused on building and enjoy creating tools that solve everyday problems and exploring AI-integrated systems.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -8,13 +14,6 @@ I'm a **Full-Stack Developer** and **AI Engineering Enthusiast** from Nepal. I s
 - **Full-Stack:** Architecting scalable web systems with a focus on performance.
 - **AI Engineering:** Integrating Large Language Models (LLMs) and building AI-native tools.
 - **Problem Solving:** Currently honing my skills in Data Structures and Algorithms (DSA).
-
-### 🛠 Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
