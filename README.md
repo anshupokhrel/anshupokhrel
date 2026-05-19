@@ -29,6 +29,7 @@ I'm a **Full-Stack Developer** and **AI Engineering Enthusiast** from Nepal. I s
 * **[AI-Powered Personalized Education Platform](https://github.com/anshupokhrel/JavaScript-Based-Software-Blueprint-for-AI-Powered-Personalized-Education-Platform)** – An intelligent blueprint for adaptive learning.
 * **[Student Management System](https://github.com/anshupokhrel/student-management-system-)** – Efficiently managing academic data.
 * **[DSA Projects](https://github.com/anshupokhrel/dsa-project)** – My journey through algorithmic problem solving.
+*  **[ML-Diabetes-detector-app](https://github.com/anshupokhrel/ml-diabetes-detector-app)** - Diagnosis the pre-diabetes.
 
 ---
 
