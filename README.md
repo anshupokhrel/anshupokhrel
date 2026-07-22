@@ -121,8 +121,7 @@ I believe that great software is created by combining:
 
 > *"Great software isn't just written—it is thoughtfully engineered."*
 
-```
-````markdown
+
 <!-- ========================================================= -->
 <!--          Tech Stack • Skills • AI/ML Expertise           -->
 <!-- ========================================================= -->
@@ -269,8 +268,6 @@ I believe that great software is created by combining:
 
 > **"Technology is best when it empowers people through thoughtful engineering and continuous innovation."**
 
-````
-````markdown
 <!-- ========================================================= -->
 <!--              Featured Projects & Portfolio               -->
 <!-- ========================================================= -->
@@ -515,10 +512,6 @@ A structured repository dedicated to solving algorithmic problems, mastering dat
 ---
 
 > **"Every project is an opportunity to learn, innovate, and engineer solutions that create real impact."**
-
-
-````
-```markdown id="github-readme-part4"
 <!-- ========================================================= -->
 
 <!--     Experience • Leadership • Achievements • Certificates -->
@@ -656,8 +649,7 @@ I aspire to become a **Software Engineer** who builds scalable, secure, and impa
 > **"Success in engineering comes from consistency, curiosity, and the courage to keep building."**
 
 
-```
-````markdown id="github-readme-part5"
+
 <!-- ========================================================= -->
 <!-- Coding Profiles • GitHub Analytics • Activity            -->
 <!-- ========================================================= -->
@@ -799,8 +791,7 @@ I aspire to become a **Software Engineer** who builds scalable, secure, and impa
 > **"Code with purpose. Build with passion. Learn without limits."**
 
 
-````
-````markdown id="k7x2qp"
+
 <!-- ========================================================= -->
 <!--          Snake • Current Focus • Connect • Footer         -->
 <!-- ========================================================= -->
