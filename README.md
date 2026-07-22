@@ -1,4 +1,3 @@
-```markdown
 <!-- ========================================================= -->
 <!--            GITHUB PROFILE README                        -->
 <!--            Header • Hero • About • Open To               -->
@@ -963,4 +962,4 @@ Computer Engineering Student | Full Stack Developer
 ---
 
 <!-- ========================================================= -->
-````
+
