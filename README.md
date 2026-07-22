@@ -801,4 +801,166 @@ I aspire to become a **Software Engineer** who builds scalable, secure, and impa
 
 
 ````
+````markdown id="k7x2qp"
+<!-- ========================================================= -->
+<!--          Snake • Current Focus • Connect • Footer         -->
+<!-- ========================================================= -->
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anshupokhrel/anshupokhrel/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+name: Anshu Pokharel
+
+role: Computer Engineering Student | Full Stack Developer
+
+learning:
+  - Advanced React & Next.js
+  - Backend Architecture
+  - System Design
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Computing
+  - DevOps Fundamentals
+
+building:
+  - Full Stack Web Applications
+  - AI Powered Applications
+  - Educational Technology Solutions
+  - Personal Developer Portfolio
+  - Open Source Projects
+
+exploring:
+  - Generative AI
+  - Software Architecture
+  - Scalable Systems
+  - Data Engineering
+  - Developer Tools
+
+open_to:
+  - Software Engineering Internships
+  - Open Source Collaboration
+  - Research Opportunities
+  - Innovative Technology Projects
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anshupokhrel">
+<img src="https://img.shields.io/badge/LinkedIn-Anshu_Pokharel-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anshupokhrel">
+<img src="https://img.shields.io/badge/GitHub-anshupokhrel-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Developer Profile
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+
+<br/>
+
+<b>GitHub</b>
+
+<br/>
+
+<a href="https://github.com/anshupokhrel">
+github.com/anshupokhrel
+</a>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+
+<br/>
+
+<b>LinkedIn</b>
+
+<br/>
+
+<a href="https://linkedin.com/in/anshupokhrel">
+linkedin.com/in/anshupokhrel
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌟 Developer Philosophy
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+# ⭐ Support My Work
+
+If you find my projects useful:
+
+⭐ Star my repositories
+
+🍴 Fork interesting projects
+
+🤝 Collaborate on ideas
+
+💬 Share feedback
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6366F1,50:7C3AED,100:4F46E5&section=footer"/>
+
+</div>
+
+<div align="center">
+
+### 💜 Engineering the future, one project at a time.
+
+**Anshu Pokharel**
+
+Computer Engineering Student | Full Stack Developer
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+````
